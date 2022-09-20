@@ -36,7 +36,7 @@ public class Main {
         frog = frog + 4;
         System.out.println(frog);
 
-        // exercise 6
+        // exercise 6 - 7
         var firstBoxerWeight = 78.2;
         var secondBoxerWeight = 82.7;
         var totalWeight = firstBoxerWeight + secondBoxerWeight;
